@@ -1,0 +1,5 @@
+node_modules/
+renderer/out/
+dist/
+.DS_Store
+renderer/.next
